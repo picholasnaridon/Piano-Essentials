@@ -7,7 +7,7 @@ Fill in your account ID in the "aid" attribute, and either "sandbox" or "api" in
 This will pull the correct setup.
 
 ```html
-    <script src="https://cdn.rawgit.com/picholasnaridon/Piano-Essentials/cda9e17b/tp.js" environment="sandbox" aid="oiGmjC8JwK"></script>
+    <script src="https://cdn.rawgit.com/picholasnaridon/Piano-Essentials/cda9e17b/tp.js" environment="" aid=""></script>
 ```
 
 Add login and logout buttons:
