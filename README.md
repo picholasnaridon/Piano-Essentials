@@ -11,16 +11,16 @@ This will pull the correct setup.
 ```
 
 Add login and logout buttons:
-```hmtl
+```html
         <piano-login-logout></piano-login-logout>
-```
+```html
 
 Add Signup and My account buttons:
-```hmtl
+```html
         <piano-register-myaccount></piano-register-myaccount>
 ```
 
 Add My Account container:
-```hmtl
+```html
         <piano-my-account></piano-my-account>
 ```
