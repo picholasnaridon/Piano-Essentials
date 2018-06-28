@@ -13,7 +13,7 @@ This will pull the correct setup.
 Add login and logout buttons:
 ```html
         <piano-login-logout></piano-login-logout>
-```html
+```
 
 Add Signup and My account buttons:
 ```html
